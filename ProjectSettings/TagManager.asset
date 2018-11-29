@@ -8,6 +8,7 @@ TagManager:
   - product
   - button
   - checker
+  - hand
   layers:
   - Default
   - TransparentFX
