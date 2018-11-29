@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4800742672901128}
   - component: {fileID: 33739989407202920}
   - component: {fileID: 23123841127226626}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: pPipe1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38,7 +38,7 @@ GameObject:
   - component: {fileID: 4359709981982742}
   - component: {fileID: 33194452774200010}
   - component: {fileID: 23290991097607156}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: pPlane1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58,9 +58,9 @@ GameObject:
   - component: {fileID: 114902704200951806}
   - component: {fileID: 114444159471610538}
   - component: {fileID: 114448040347338780}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: papel
-  m_TagString: Untagged
+  m_TagString: product
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -85,7 +85,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1854695060995326}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.5455503, y: 1.475, z: 2.5805387}
+  m_LocalPosition: {x: -5.32, y: 1.26, z: 13}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4800742672901128}
